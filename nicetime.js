@@ -58,7 +58,7 @@
 	} else if (typeof define === 'function' && define.amd) {
 		define('nicetime', [], function(){
 			return NiceTime;
-		})
+		});
 	} else {
 		window.NiceTime = NiceTime;
 	}
