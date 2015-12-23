@@ -1,0 +1,19 @@
+{
+  "name": "nicetime",
+  "version": "1.0.0",
+  "description": "Converts milliseconds to human readable times and back",
+  "main": "nicetime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaptajnen/nicetime.git"
+  },
+  "author": "Jonas Laursen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaptajnen/nicetime/issues"
+  },
+  "homepage": "https://github.com/kaptajnen/nicetime#readme"
+}
